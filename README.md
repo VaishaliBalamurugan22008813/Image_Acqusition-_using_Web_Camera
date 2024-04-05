@@ -116,7 +116,8 @@ cv2.destroyAllWindows()
 
 
 # iv) Rotate and display the video
-![44](https://github.com/VaishaliBalamurugan22008813/Image_Acqusition-_using_Web_Camera/assets/119390134/b6cdb0c2-a492-4624-bb4f-519d99c18f80)
+![image](https://github.com/VaishaliBalamurugan22008813/Image_Acqusition-_using_Web_Camera/assets/119390134/417f2dec-6746-4a72-8ba4-d31fbfc730b7)
+
 
 
 # Result:
