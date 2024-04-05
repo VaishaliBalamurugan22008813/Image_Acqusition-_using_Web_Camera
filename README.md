@@ -70,7 +70,7 @@ while True:
     image[height//2:, :width//2]=smaller_frame
     image[:height//2, width//2:]=smaller_frame
     image[height//2:, width//2:]=smaller_frame
-    cv2.imshow('ARAVIND',image)
+    cv2.imshow('Vaishali',image)
     if cv2.waitKey(1)==ord('q'):
         break
 cap.release()
@@ -91,7 +91,7 @@ while True:
     image[height//2:, :width//2]=smaller_frame
     image[:height//2, width//2:]=cv2.rotate(smaller_frame,cv2.ROTATE_180)
     image[height//2:, width//2:]=smaller_frame
-    cv2.imshow('ARAVIND',image)
+    cv2.imshow('Vaishali',image)
     if cv2.waitKey(1)==ord('q'):
         break
 cap.release()
